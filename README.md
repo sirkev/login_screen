@@ -1,16 +1,23 @@
 # login_screen
 
-user registration and log in screen implimentation using flutter
+user registration and log in screen implementation using flutter
+This is a sample of an app login screen UI made with flutter
 
-## Getting Started
+## Description
+This screen makes use of the following widgets:
+    1.scaffold
+    2.column
+    3.container
+    4.Text
+    5.Text box
+    6.SizedBox
+    7.padding
+    8.row
 
-This project is a starting point for a Flutter application.
+## functionality
 
-A few resources to get you started if this is your first Flutter project:
+Says hello to user
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+lets registered users input their username or email and password then log in
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+New users are given the option to register
