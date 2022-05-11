@@ -5,14 +5,14 @@ This is a sample of an app login screen UI made with flutter
 
 ## Description
 This screen makes use of the following widgets:
-    1.scaffold
-    2.column
-    3.container
-    4.Text
-    5.Text box
-    6.SizedBox
-    7.padding
-    8.row
+    -1.scaffold
+    -2.column
+    -3.container
+    -4.Text
+    -5.Text box
+    -6.SizedBox
+    -7.padding
+    -8.row
 
 ## functionality
 
